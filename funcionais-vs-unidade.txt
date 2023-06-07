@@ -1,0 +1,7 @@
+    Testes de unidade medem a qualidade das menores partes do sistema, enquanto
+os testes funcionais veem se o sistema desempenha a função correta como um todo
+
+    Testes de unidade são simples, rápidos, determinísticos, autoverificáveis,
+independentes e minuciosos. Testes funcionais são mais abrangentes, podem 
+introduzir comportamento flaky, também são autoverificáveis, mas podem ter
+dependências.
