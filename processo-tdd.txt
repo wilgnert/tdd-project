@@ -1,0 +1,20 @@
+Para adicionar uma funcionalidade à aplicação, você escreve um teste que verifica
+se todos os requisitos atendidos por aquela funcionalidade estão satisfeitos.
+
+Este teste não passará, pois a funcionalidade não está implementada.
+
+Para implementá-la, você escreverá mais testes, um para cada requisito da
+funcionalidade.
+
+Estes testes também não passarão.
+
+Você escreverá o mínimo possível para fazer cada teste passar antes de seguir
+para o próximo.
+
+Antes de seguir, você também verá se não pode haver refatoração do código escrito.
+
+Quando todos os testes de requisitos estiverem escritos, o teste da funcionalidade
+deve passar.
+
+Neste passo, ou você refatora a funcionalidade, ou repete o processo para outra 
+funcionalidade.
