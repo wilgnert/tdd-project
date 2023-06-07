@@ -2,7 +2,6 @@ from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 import unittest
 options = Options()
-options = Options()
 options.binary_location = r'C:\Program Files\Mozilla Firefox\firefox.exe'
 
 class NewVisitorTest(unittest.TestCase):
